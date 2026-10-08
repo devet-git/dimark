@@ -1,0 +1,8 @@
+{
+  "name": "Dimark - Digital Marketing Agency",
+  "description": "Nền tảng Digital Marketing toàn diện & chuyên nghiệp: SEO, Performance Ads, Tối ưu chuyển đổi CRO & Tăng trưởng doanh thu bứt phá.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
